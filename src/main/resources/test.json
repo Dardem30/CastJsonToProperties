@@ -1,0 +1,27 @@
+{
+  "array": ["tw", "evbr"],
+  "testJsonObject": {
+    "test": "test",
+    "nnnn": "mmmm",
+    "testInsertedObject": {
+      "insertedArray": ["tw", "evbr"],
+      "insert": "insert",
+      "newTestInsertedObject": {
+        "newInsert": "newInsert"
+      }
+    },
+    "nTestInsertedObject": {
+      "nTypeInsert": false,
+      "nInert": "nInsert"
+    },
+    "n2TestInsertedObject": {
+      "n2Inert": "n2Insert"
+    },
+    "afterTest": "afterTest"
+  },
+  "test2JsonObject": {
+     "test2": "test2",
+     "numTest": 2
+  },
+  "typeTest": true
+}
