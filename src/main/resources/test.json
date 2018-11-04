@@ -23,5 +23,6 @@
      "test2": "test2",
      "numTest": 2
   },
-  "typeTest": true
+  "typeTest": true,
+  "numTest": 24
 }
