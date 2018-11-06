@@ -20,7 +20,13 @@ public class PropertiesConverter implements IConverter {
         final Properties properties = new Properties();
         properties.load(new FileInputStream(propertiesPath));
         final JSONObject jsonObject = new JSONObject(text);
-//        jsonObject.toMap().forEach((key, value) -> {
+//        jsonObject.toMap().forEach((
+//
+//
+//
+//
+//
+// key, value) -> {
 //            if (value instanceof ArrayList) {
 //                ArrayList list =
 //                        (ArrayList) value;
